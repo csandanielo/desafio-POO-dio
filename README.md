@@ -5,7 +5,7 @@ Desafio de Projeto: Abstraindo um Bootcamp usando POO
 
 Conceitos abordados e praticados: 
 - Abstração;
-Encapsulamento;
+- Encapsulamento;
 - Herança;
 - Polimorfismo. 
 
@@ -18,6 +18,3 @@ Te convido a conhecer demais projetos no meu portfolio fora deste repositorio!
 ## Links Uteis
 
 Repositório instrutora Camila Cavalcante https://github.com/cami-la/desafio-poo-dio
-
-
-
